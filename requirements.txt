@@ -1,0 +1,10 @@
+flask
+werkzeug
+python_dotenv
+openai
+langchain
+boto3
+chromadb
+pypdf
+tiktoken
+unstructured
